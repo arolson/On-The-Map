@@ -12,7 +12,7 @@
 <ul>
     <li>Students may login to their Udacity account using the Udacity API.</li>
     <li>Place a pin on a location of their choosing, along with a url to which ever website they choose.</li>
-    <li>Interact with other students pins and navigate to valid urls based on the pin they selected.</li>
+    <li>Interact with other students pins, and navigate to valid urls based on the pin they selected.</li>
 </ul>
 </header>
  
