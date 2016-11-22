@@ -10,13 +10,15 @@
 <header>
   <h3>User Interaction</h3>
 <ul>
-    <li>Users may login to their Udacity account using the Udacity API.</li>
-    <li>Users may also place a pin on a location of their choosing, along with a url to which ever website they choose.</li>
-    <li>Users may interact with other students pins and navigate to valid urls based on the pin they selected.</li>
+    <li>Students may login to their Udacity account using the Udacity API.</li>
+    <li>Place a pin on a location of their choosing, along with a url to which ever website they choose.</li>
+    <li>Interact with other students pins and navigate to valid urls based on the pin they selected.</li>
 </ul>
 </header>
  
 
 
-# License
-This application was built as a Course Project for Udacity.com.
+<header>
+  <h3>License</h3>
+  <p>This application was built as a Course Project for Udacity.com.</p>
+</header>
