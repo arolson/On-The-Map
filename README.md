@@ -9,11 +9,11 @@
 
 <header>
   <h3>User Interaction</h3>
-
-    <ol>Users may login to their Udacity account using the Udacity API.</ol>
-    <ol>Users may also place a pin on a location of their choosing, along with a url to which ever website they choose.</ol>
-    <ol>Users may interact with other students pins and navigate to valid urls based on the pin they selected.</ol>
-  
+<ul>
+    <li>Users may login to their Udacity account using the Udacity API.</li>
+    <li>Users may also place a pin on a location of their choosing, along with a url to which ever website they choose.</li>
+    <li>Users may interact with other students pins and navigate to valid urls based on the pin they selected.</li>
+</ul>
 </header>
  
 
